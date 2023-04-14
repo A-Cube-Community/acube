@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Transportio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Transportio Desktop Demo](https://github.com/A-Cube-Community/A-Cube-Website/blob/main/Screenshot%20(572).png)
 
 ### Prerequisites
 
