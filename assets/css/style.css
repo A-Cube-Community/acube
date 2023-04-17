@@ -821,12 +821,12 @@ body {
 
 .back-top-btn {
   position: fixed;
-  bottom: 75px;
-  right: 15px;
+  bottom: 80px;
+  right: 26px;
   background-color: var(--eerie-black);
   color: var(--white);
   font-size: 20px;
-  padding: 10px;
+  padding: 1px;
   z-index: 3;
   opacity: 0;
   visibility: hidden;
